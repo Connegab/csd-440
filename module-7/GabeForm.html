@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gabe Form</title>
+</head>
+<body>
+
+<h2>User Information Form</h2>
+
+<form action="GabeResponse.php" method="post">
+    
+    <!-- Text input -->
+    First Name: <input type="text" name="firstName"><br><br>
+
+    <!-- Text input -->
+    Last Name: <input type="text" name="lastName"><br><br>
+
+    <!-- Number input -->
+    Age: <input type="number" name="age"><br><br>
+
+    <!-- Email input -->
+    Email: <input type="email" name="email"><br><br>
+
+    <!-- Radio buttons -->
+    Gender:
+    <input type="radio" name="gender" value="Male"> Male
+    <input type="radio" name="gender" value="Female"> Female<br><br>
+
+    <!-- Dropdown -->
+    Favorite Genre:
+    <select name="genre">
+        <option value="">Select One</option>
+        <option value="Action">Action</option>
+        <option value="Comedy">Comedy</option>
+        <option value="Horror">Horror</option>
+    </select><br><br>
+
+    <!-- Checkbox -->
+    Subscribe:
+    <input type="checkbox" name="subscribe" value="Yes"><br><br>
+
+    <input type="submit" value="Submit">
+
+</form>
+
+</body>
+</html>

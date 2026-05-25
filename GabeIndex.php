@@ -18,8 +18,8 @@ and demonstrates different PHP concepts like loops, functions, and string handli
     <li><a href="GabeTable2.php">Module 2 - Random Table (Nested Loops)</a></li>
     <li><a href="GabeTable3.php">Module 3 - Table with Function (External File)</a></li>
     <li><a href="GabePalindrome.php">Module 4 - Palindrome Checker</a></li>
-    <li><a href="">Module 5 - (Add your files here)</a></li>
-    <li><a href="">Module 6 - (Add your files here)</a></li>
+    <li><a href="GabeCustomers.php">Module 5 - Customer Management</a></li>
+    <li><a href="GabeMyInteger.php">Module 6 - MyInteger Class</a></li>
 </ul>
 
 <p>
